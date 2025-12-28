@@ -10,9 +10,6 @@ It demonstrates form structure, accessibility basics, and multiple input types.
 - Textarea for comments
 - Semantic HTML structure
 
-## Live Demo
-🔗 https://valentia-dev.github.io/hotel-feedback-form/
-
 ## Built With
 - HTML5
 
