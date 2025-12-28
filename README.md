@@ -1,2 +1,21 @@
-# hotel-feedback-form
-HTML forms practice project built while learning on freeCodeCamp
+# Hotel Feedback Form
+
+This is an HTML forms practice project built while learning on freeCodeCamp.
+It demonstrates form structure, accessibility basics, and multiple input types.
+
+## Features
+- Text, email, number inputs
+- Radio buttons and checkboxes
+- Select dropdowns
+- Textarea for comments
+- Semantic HTML structure
+
+## Live Demo
+🔗 https://valentia-dev.github.io/hotel-feedback-form/
+
+## Built With
+- HTML5
+
+## Author
+Valentine Jan Mwalughali
+
